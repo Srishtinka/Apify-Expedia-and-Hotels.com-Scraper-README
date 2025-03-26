@@ -23,7 +23,7 @@ https://www.youtube.com/watch?v=-wyz2iscZ30&ab_channel=Apify
 Follow these quick simple steps to extract your dataset by using Expedia and Hotels.com Scraper:  
 1. Use your email to create your [free Apify account](https://console.apify.com/sign-up).  
 2. Open the required [Actor](https://console.apify.com/actors) on the Apify page and enter into your Apify console.  
-3. Under the Input tab, **copy and paste the Expedia and Hotels.com URLs** that you would like to extract the reviews from.
+3. Under the Input tab, **copy and paste the Expedia and Hotels.com URLs** from which you would like to extract reviews.
 4. You can also narrow down your search by **adding the maximum value for reviews per hotel, sorting out the ratings and adjusting the date of the written review**.  
 5. Then click on the "Save & Start" button and your data is ready to be extracted!   
 6. Once done, you can then obtain your results in **JSON, CSV, XML, Excel or HTML format**.
