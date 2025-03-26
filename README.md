@@ -6,7 +6,7 @@ This **Apify Actor** helps you to **extract trusted reviews from any hotel, apar
 👍 **Best hotel features** according to reviewers  
 ✅ Key **aspects/ themes that the reviewer valued**  
 📅 **Duration and date** of reviewer's stay  
-👪 **Type of traveler** (with a partner, family, group)
+👪 **Type of traveler** (with a partner, family or group)
 
 ## Why should I scrape reviews from Expedia and Hotels.com?
 ✅ **Authentic Customer Feedback**: Gives you an overview of the satisfaction level of the reviewer by scraping from Expedia and Hotels.com websites.  
