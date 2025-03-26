@@ -62,8 +62,7 @@ The scraper allows you to configure certain properties which is explained in the
 
 ## Output example  
 
-The results of the runs are stored in the [Storage tab](https://console.apify.com/storage). You can either view your results in the form of a table in the Apify console, preview them in new tab or export them as an offline version. Here is a quick walkthrough on how you can access your output:
-https://github.com/user-attachments/assets/175ed6fb-19a2-4f02-acc0-8c5c53a4b34d
+The results of the runs are stored in the [Storage tab](https://console.apify.com/storage). You can either view your results in the form of a table in the Apify console, preview them in new tab or export them as an offline version.
 
 Now you have an access to the list of reviews! Here are a few examples of reviews from the dataset in JSON:
 
