@@ -1,5 +1,5 @@
 # What does Expedia & Hotels.com Reviews Scraper do?
-This **Apify Actor** helps you to **extract trusted reviews from any hotel, apartment or accommodation that is listed on [Expedia](https://euro.expedia.net/) and [Hotels.com](https://www.hotels.com/)**. To use it, simply **paste the URLs of your chosen hotel listings, click the 'Save & Start' button and instantly retrieve reviews** to help you choose the best hotel.  
+This **Apify Actor** helps you to **extract trusted reviews from any hotel, apartment or accommodation that is listed on [Expedia](https://euro.expedia.net/) and [Hotels.com](https://www.hotels.com/)**. To use it, simply **paste the URLs of your chosen hotel listings**. Then, **click the 'Save & Start' button and instantly retrieve reviews** to help you choose the best hotel.  
 
 It only works for **[Expedia](https://euro.expedia.net/)** and **[Hotels.com](https://www.hotels.com/)** sites and is not applicable for other booking portals. This tool is ideal for travelers who are searching for the most trustworthy and dependable hotel listing choices to choose from.
 
