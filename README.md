@@ -310,7 +310,7 @@ The Apify API helps you to automate and manage Apify services using RESTful HTTP
 For more details, check out the [Apify API reference](https://docs.apify.com/api/v2) documentation and [API tab](https://apify.com/tri_angle/expedia-hotels-com-reviews-scraper/api/python) for code examples.
 
 ### Can I integrate Expedia and Hotels.com Reviews Scraper with other apps?  
-Expedia and Hotels.com Reviews Scraper can be integrated with apps such as **Google Drive, GutHub, Keboola, Airbyte, Zapier, Make, LangChain, LlamaIndex, Flowise and [other Apify Actors](https://docs.apify.com/platform/integrations)**. You can find these [integrations](https://apify.com/integrations) on the Apify platform.  
+Expedia and Hotels.com Reviews Scraper can be integrated with apps such as **Google Drive, GitHub, Keboola, Airbyte, Zapier, Make, LangChain, LlamaIndex, Flowise and [other Apify Actors](https://docs.apify.com/platform/integrations)**. You can find these [integrations](https://apify.com/integrations) on the Apify platform.  
 
 You can also use [webhooks](https://docs.apify.com/platform/integrations/webhooks) to trigger notifications for different statuses, for instance, `ACTOR.RUN.CREATED` will notify you when a new Actor run has been created.
 
