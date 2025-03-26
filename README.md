@@ -13,7 +13,7 @@ This **Apify Actor** helps you to **extract trusted reviews from any hotel, apar
 📈 **Market Analysis for Hotel Owners**: Advanced web scraping technologies enable the owners to conduct a research about their property and their competitors.  
 🕜 **Time-efficient**: Extracts data from multiple platforms and combines them into one dataset which saves you from visiting multiple sites to collect data.  
 💪 **Structured Data Results**: All scraped data is organized and converted into user-friendly formats such as CSV, Excel and JSON.  
-🔗 **Integrate your Dataset**: Retrieve the data obtained from scraping Expedia and Booking.com reviews and integrate with our Apify API.
+🔗 **Integrate your Dataset**: Retrieve the data obtained from scraping Expedia and Booking.com reviews and integrate it with our Apify API.
 
 ## How much will scraping reviews from Expedia and Hotels.com cost me?  
 This [Actor](https://apify.com/tri_angle/expedia-hotels-com-reviews-scraper) calculates the pricing based on the number of results obtained. It will cost you **$1 to scrape 1,000 Expedia and Hotels.com reviews**. Plus, with the [Apify Free plan](https://apify.com/pricing), you can scrape upto **$5 of data for free each month**. To learn more about pricing, watch our video on [Apify pricing](https://www.youtube.com/watch?v=-wyz2iscZ30&ab_channel=Apify):  
